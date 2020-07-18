@@ -1,0 +1,123 @@
+.footer_logo {
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 45px; }
+
+footer {
+  padding-top: 65px;
+  -webkit-box-shadow: 0 -3px 5px 1px rgba(163, 163, 163, 0.1);
+  box-shadow: 0 -3px 5px 1px rgba(163, 163, 163, 0.1);
+  background-color: #ffffff; }
+
+.footer__links__wrap {
+  border-top: 1px solid #ebebeb;
+  border-bottom: 1px solid #ebebeb; }
+
+.footer__links {
+  margin: 0 auto;
+  max-width: 470px;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between; }
+  .footer__links a {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    position: relative;
+    height: 62px;
+    -webkit-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease; }
+    .footer__links a.facebook:before {
+      font-family: "Flaticon";
+      position: absolute;
+      font-size: 15px;
+      color: #797979;
+      -webkit-transition: all .3s ease;
+      -o-transition: all .3s ease;
+      transition: all .3s ease;
+      content: "\f103"; }
+    .footer__links a.google_plus:before {
+      font-family: "Flaticon";
+      position: absolute;
+      font-size: 15px;
+      color: #797979;
+      -webkit-transition: all .3s ease;
+      -o-transition: all .3s ease;
+      transition: all .3s ease;
+      content: "\f102"; }
+    .footer__links a.twitter:before {
+      font-family: "Flaticon";
+      position: absolute;
+      font-size: 15px;
+      color: #797979;
+      -webkit-transition: all .3s ease;
+      -o-transition: all .3s ease;
+      transition: all .3s ease;
+      content: "\f104"; }
+    .footer__links a.linkedin:before {
+      font-family: "Flaticon";
+      position: absolute;
+      font-size: 15px;
+      color: #797979;
+      -webkit-transition: all .3s ease;
+      -o-transition: all .3s ease;
+      transition: all .3s ease;
+      content: "\f105"; }
+    .footer__links a.dribble:before {
+      font-family: "Flaticon";
+      position: absolute;
+      font-size: 15px;
+      color: #797979;
+      -webkit-transition: all .3s ease;
+      -o-transition: all .3s ease;
+      transition: all .3s ease;
+      content: "\f106"; }
+    .footer__links a.pinterest:before {
+      font-family: "Flaticon";
+      position: absolute;
+      font-size: 15px;
+      color: #797979;
+      -webkit-transition: all .3s ease;
+      -o-transition: all .3s ease;
+      transition: all .3s ease;
+      content: "\f101"; }
+    .footer__links a.instagram:before {
+      font-family: "Flaticon";
+      position: absolute;
+      font-size: 15px;
+      color: #797979;
+      -webkit-transition: all .3s ease;
+      -o-transition: all .3s ease;
+      transition: all .3s ease;
+      right: 0px;
+      content: "\f100"; }
+    .footer__links a:hover:before {
+      color: #000;
+      -webkit-transition: all .3s ease;
+      -o-transition: all .3s ease;
+      transition: all .3s ease; }
+
+.all_rights_reserved {
+  margin-top: 35px;
+  margin-bottom: 45px;
+  text-align: center; }
+  .all_rights_reserved a {
+    color: #9c9c9c;
+    width: 100%;
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 26px;
+    text-transform: uppercase;
+    text-decoration: none; }
+    .all_rights_reserved a span {
+      color: #000000;
+      letter-spacing: 0.33px; }
