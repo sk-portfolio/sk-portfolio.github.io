@@ -1044,7 +1044,7 @@ footer {
     width: 100%;
     -ms-grid-columns: minmax(290px, 360px);
     grid-template-columns: minmax(290px, 360px);
-    -ms-grid-rows: (117.9px)[29];
+    -ms-grid-rows: (117.9px)[28];
     grid-template-rows: repeat(29, 117.9px);
     margin: 0 auto; }
   .blog__info {
