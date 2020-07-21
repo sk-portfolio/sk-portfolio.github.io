@@ -1053,7 +1053,7 @@ footer {
     grid-column: 1/2;
     -ms-grid-row: 20;
     -ms-grid-row-span: 9;
-    grid-row: 20/29; }
+    grid-row: 20/2; }
   .blog__post.first__post {
     -ms-grid-column: 1;
     -ms-grid-column-span: 1;
