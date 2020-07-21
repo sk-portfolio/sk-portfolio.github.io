@@ -604,6 +604,8 @@ footer {
   flex-wrap: wrap; }
 
 .team__item {
+  margin-left: 5px;
+  margin-right: 5px;
   margin-bottom: 15px; }
   .team__item img {
     max-width: 358px;
@@ -690,6 +692,12 @@ footer {
     justify-content: center; }
   .info__part {
     margin-top: 30px; } }
+
+    @media screen and (max-width: 765px) {
+      .team__items{
+        justify-content: center;
+      }
+    }
 
 @media screen and (max-width: 576px) {
   .header__title h3 {

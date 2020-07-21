@@ -682,6 +682,11 @@ form {
   -ms-flex-wrap: wrap;
   flex-wrap: wrap; }
 
+
+.our__values__item{
+  margin-right: 5px;
+  margin-left: 5px;
+} 
 .our__values__item h3 {
   margin-top: 27px;
   color: #000000;
@@ -822,7 +827,11 @@ form {
     justify-content: center; }
   .form__wrap {
     margin-top: 30px; } }
-
+@media screen and (max-width: 757px){
+  .our__values__items{
+    justify-content: center;
+  }
+}
 @media screen and (max-width: 576px) {
   .input__wrap {
     display: block; }
