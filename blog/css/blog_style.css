@@ -1100,5 +1100,12 @@ footer {
     margin-top: 40px; } }
 
 @media screen and (max-width: 444px) {
+
+  .blog__info input {
+
+    max-width: 360px;
+    width: 100%;
+
+ }
   .header__title h3 {
     font-size: 30px; } }
