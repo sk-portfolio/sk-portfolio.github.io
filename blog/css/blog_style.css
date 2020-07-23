@@ -602,7 +602,7 @@ footer {
     width: 100%; }
   .img__part.custom {
     position: absolute;
-    height: 100%;
+    height: 288px;
     max-width: 360px;
     width: 100%; }
   .img__part .hover__effect {
