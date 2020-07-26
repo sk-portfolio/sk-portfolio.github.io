@@ -1056,8 +1056,8 @@ footer {
 .slick-next {
   z-index: 700;
   position: absolute;
-  width: 42px;
-  height: 43px;
+  width: 42.5px;
+  height: 43.5px;
   border: 1px solid #ffffff;
   border-radius: 50%;
   right: 5%;
